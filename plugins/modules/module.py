@@ -1,0 +1,2 @@
+def decepti():
+    return "cons"

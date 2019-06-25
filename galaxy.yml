@@ -1,0 +1,11 @@
+namespace: "shokxi"
+name: "example_collection"
+version: "1.0.0"
+description: "Various pieces of content"
+authors:
+  - "Jake Jackson <jljacks93@gmail.com>"
+license:
+  - "GPL-3.0"
+readme: README.md
+tags: []
+dependencies: {}

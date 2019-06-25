@@ -1,0 +1,2 @@
+def auto():
+    return "bots"
